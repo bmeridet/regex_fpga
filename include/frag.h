@@ -1,6 +1,6 @@
 #pragma once
-
 #include <string>
+#include "../include/state.h"
 
 class frag {
 

@@ -9,7 +9,7 @@ private:
     int c;
     state* out1;
     state* out2;
-    static int nstate = 0;
+    static int nstate;
 
 public:
 
