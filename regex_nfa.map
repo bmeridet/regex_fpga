@@ -1,0 +1,1379 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/lib/x86_64-linux-gnu/libc_nonshared.a(elf-init.oS)
+                              /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o (__libc_csu_init)
+
+Merging program properties
+
+
+As-needed library included to satisfy reference by file (symbol)
+
+libstdc++.so.6                src/state.o (std::__throw_length_error(char const*)@@GLIBCXX_3.4)
+libgcc_s.so.1                 src/state.o (_Unwind_Resume@@GCC_3.0)
+libc.so.6                     src/state.o (__stack_chk_fail@@GLIBC_2.4)
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/9/crtbeginS.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /usr/lib/gcc/x86_64-linux-gnu/9/crtbeginS.o
+ .group         0x0000000000000000        0x8 src/state.o
+ .group         0x0000000000000000        0x8 src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0x8 src/state.o
+ .group         0x0000000000000000        0x8 src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0x8 src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0x8 src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0x8 src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0x8 src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0x8 src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0x8 src/state.o
+ .group         0x0000000000000000        0x8 src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0x8 src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0x8 src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0x8 src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0x8 src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0x8 src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0x8 src/state.o
+ .group         0x0000000000000000        0x8 src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0x8 src/state.o
+ .group         0x0000000000000000        0x8 src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0x8 src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .group         0x0000000000000000        0xc src/state.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 src/state.o
+ .note.gnu.property
+                0x0000000000000000       0x20 src/state.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 src/frag.o
+ .note.gnu.property
+                0x0000000000000000       0x20 src/frag.o
+ .group         0x0000000000000000        0x8 src/main.o
+ .group         0x0000000000000000        0x8 src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0x8 src/main.o
+ .group         0x0000000000000000        0x8 src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0x8 src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0x8 src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0x8 src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0x8 src/main.o
+ .group         0x0000000000000000        0x8 src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0x8 src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0x8 src/main.o
+ .group         0x0000000000000000        0x8 src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0x8 src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0x8 src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0x8 src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0x8 src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0x8 src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0x8 src/main.o
+ .group         0x0000000000000000        0x8 src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0x8 src/main.o
+ .group         0x0000000000000000        0x8 src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0x8 src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .group         0x0000000000000000        0xc src/main.o
+ .text._ZnwmPv  0x0000000000000000       0x16 src/main.o
+ .text._ZSt16__deque_buf_sizem
+                0x0000000000000000       0x2d src/main.o
+ .text._ZSt3maxImERKT_S2_S2_
+                0x0000000000000000       0x2f src/main.o
+ .text._ZSt3minImERKT_S2_S2_
+                0x0000000000000000       0x2f src/main.o
+ .data.rel.local.DW.ref.__gxx_personality_v0
+                0x0000000000000000        0x8 src/main.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 src/main.o
+ .note.gnu.property
+                0x0000000000000000       0x20 src/main.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/x86_64-linux-gnu/libc_nonshared.a(elf-init.oS)
+ .note.gnu.property
+                0x0000000000000000       0x20 /usr/lib/x86_64-linux-gnu/libc_nonshared.a(elf-init.oS)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/9/crtendS.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /usr/lib/gcc/x86_64-linux-gnu/9/crtendS.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crtn.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crti.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/9/crtbeginS.o
+LOAD src/state.o
+LOAD src/frag.o
+LOAD src/main.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/9/libstdc++.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/libm.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libm.so.6
+LOAD /lib/x86_64-linux-gnu/libmvec.so.1
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/9/libgcc_s.so
+START GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/libgcc_s.so.1
+LOAD /usr/lib/gcc/x86_64-linux-gnu/9/libgcc.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/9/libgcc.a
+LOAD /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/libc.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libc.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libc_nonshared.a
+LOAD /lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/9/libgcc_s.so
+START GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/libgcc_s.so.1
+LOAD /usr/lib/gcc/x86_64-linux-gnu/9/libgcc.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/9/libgcc.a
+LOAD /usr/lib/gcc/x86_64-linux-gnu/9/crtendS.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crtn.o
+                [!provide]                        PROVIDE (__executable_start = SEGMENT_START ("text-segment", 0x0))
+                0x0000000000000318                . = (SEGMENT_START ("text-segment", 0x0) + SIZEOF_HEADERS)
+
+.interp         0x0000000000000318       0x1c
+ *(.interp)
+ .interp        0x0000000000000318       0x1c /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+
+.note.gnu.property
+                0x0000000000000338       0x20
+ .note.gnu.property
+                0x0000000000000338       0x20 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+
+.note.gnu.build-id
+                0x0000000000000358       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x0000000000000358       0x24 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+
+.note.ABI-tag   0x000000000000037c       0x20
+ .note.ABI-tag  0x000000000000037c       0x20 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x00000000000003a0       0x30
+ *(.gnu.hash)
+ .gnu.hash      0x00000000000003a0       0x30 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+
+.dynsym         0x00000000000003d0      0x300
+ *(.dynsym)
+ .dynsym        0x00000000000003d0      0x300 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+
+.dynstr         0x00000000000006d0      0x3c5
+ *(.dynstr)
+ .dynstr        0x00000000000006d0      0x3c5 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+
+.gnu.version    0x0000000000000a96       0x40
+ *(.gnu.version)
+ .gnu.version   0x0000000000000a96       0x40 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+
+.gnu.version_d  0x0000000000000ad8        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x0000000000000ad8        0x0 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+
+.gnu.version_r  0x0000000000000ad8       0xa0
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x0000000000000ad8       0xa0 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+
+.rela.dyn       0x0000000000000b78      0x180
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ .rela.text     0x0000000000000b78        0x0 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ .rela.data.rel.ro
+                0x0000000000000b78        0x0 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+ .rela.data.rel.local
+                0x0000000000000b78       0x18 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+ .rela.data.rel.local.DW.ref.__gxx_personality_v0
+                0x0000000000000b90       0x18 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ .rela.got      0x0000000000000ba8       0xa8 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ .rela.bss      0x0000000000000c50       0x30 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+ *(.rela.ldata .rela.ldata.* .rela.gnu.linkonce.l.*)
+ *(.rela.lbss .rela.lbss.* .rela.gnu.linkonce.lb.*)
+ *(.rela.lrodata .rela.lrodata.* .rela.gnu.linkonce.lr.*)
+ *(.rela.ifunc)
+ .rela.ifunc    0x0000000000000c80        0x0 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+ .rela.fini_array
+                0x0000000000000c80       0x18 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+ .rela.init_array
+                0x0000000000000c98       0x60 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+ .rela.eh_frame
+                0x0000000000000cf8        0x0 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+
+.rela.plt       0x0000000000000cf8      0x1f8
+ *(.rela.plt)
+ .rela.plt      0x0000000000000cf8      0x1f8 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+ *(.rela.iplt)
+                0x0000000000001000                . = ALIGN (CONSTANT (MAXPAGESIZE))
+
+.init           0x0000000000001000       0x1b
+ *(SORT_NONE(.init))
+ .init          0x0000000000001000       0x16 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crti.o
+                0x0000000000001000                _init
+ .init          0x0000000000001016        0x5 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crtn.o
+
+.plt            0x0000000000001020      0x160
+ *(.plt)
+ .plt           0x0000000000001020      0x160 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+ *(.iplt)
+
+.plt.got        0x0000000000001180       0x10
+ *(.plt.got)
+ .plt.got       0x0000000000001180       0x10 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+                0x0000000000001180                __cxa_finalize@@GLIBC_2.2.5
+
+.plt.sec        0x0000000000001190      0x150
+ *(.plt.sec)
+ .plt.sec       0x0000000000001190      0x150 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+                0x0000000000001190                std::__throw_bad_alloc()@@GLIBCXX_3.4
+                0x00000000000011a0                __cxa_begin_catch@@CXXABI_1.3
+                0x00000000000011b0                std::__throw_length_error(char const*)@@GLIBCXX_3.4
+                0x00000000000011c0                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::~basic_string()@@GLIBCXX_3.4.21
+                0x00000000000011d0                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::size() const@@GLIBCXX_3.4.21
+                0x00000000000011e0                __cxa_atexit@@GLIBC_2.2.5
+                0x00000000000011f0                operator delete(void*)@@GLIBCXX_3.4
+                0x0000000000001200                std::basic_ostream<char, std::char_traits<char> >& std::operator<< <std::char_traits<char> >(std::basic_ostream<char, std::char_traits<char> >&, char const*)@@GLIBCXX_3.4
+                0x0000000000001210                operator new(unsigned long)@@GLIBCXX_3.4
+                0x0000000000001220                operator delete(void*, unsigned long)@@CXXABI_1.3.9
+                0x0000000000001230                std::ostream::operator<<(std::ostream& (*)(std::ostream&))@@GLIBCXX_3.4
+                0x0000000000001240                __stack_chk_fail@@GLIBC_2.4
+                0x0000000000001250                std::basic_istream<char, std::char_traits<char> >& std::operator>><char, std::char_traits<char>, std::allocator<char> >(std::basic_istream<char, std::char_traits<char> >&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&)@@GLIBCXX_3.4.21
+                0x0000000000001260                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string()@@GLIBCXX_3.4.21
+                0x0000000000001270                __cxa_rethrow@@CXXABI_1.3
+                0x0000000000001280                std::ios_base::Init::Init()@@GLIBCXX_3.4
+                0x0000000000001290                memmove@@GLIBC_2.2.5
+                0x00000000000012a0                __cxa_end_catch@@CXXABI_1.3
+                0x00000000000012b0                std::ostream::operator<<(int)@@GLIBCXX_3.4
+                0x00000000000012c0                _Unwind_Resume@@GCC_3.0
+                0x00000000000012d0                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::operator[](unsigned long)@@GLIBCXX_3.4.21
+
+.text           0x00000000000012e0     0x3cf5
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(SORT_BY_NAME(.text.sorted.*))
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x00000000000012e0       0x2f /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+                0x00000000000012e0                _start
+ .text          0x000000000000130f        0x0 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crti.o
+ *fill*         0x000000000000130f        0x1 
+ .text          0x0000000000001310       0xb9 /usr/lib/gcc/x86_64-linux-gnu/9/crtbeginS.o
+ *fill*         0x00000000000013c9        0x1 
+ .text          0x00000000000013ca      0x27f src/state.o
+                0x00000000000013ca                state::state(int, state*, state*)
+                0x00000000000013ca                state::state(int, state*, state*)
+                0x0000000000001414                state::get_state()
+                0x0000000000001428                state::num_states()
+                0x0000000000001438                state::traverse(state*)
+ .text._ZnwmPv  0x0000000000001649       0x16 src/state.o
+                0x0000000000001649                operator new(unsigned long, void*)
+ .text._ZSt16__deque_buf_sizem
+                0x000000000000165f       0x2d src/state.o
+                0x000000000000165f                std::__deque_buf_size(unsigned long)
+ .text._ZNSt5stackIP5stateSt5dequeIS1_SaIS1_EEED2Ev
+                0x000000000000168c       0x1f src/state.o
+                0x000000000000168c                std::stack<state*, std::deque<state*, std::allocator<state*> > >::~stack()
+                0x000000000000168c                std::stack<state*, std::deque<state*, std::allocator<state*> > >::~stack()
+ *fill*         0x00000000000016ab        0x1 
+ .text._ZNSt5stackIP5stateSt5dequeIS1_SaIS1_EEEC2IS4_vEEv
+                0x00000000000016ac       0x1f src/state.o
+                0x00000000000016ac                std::stack<state*, std::deque<state*, std::allocator<state*> > >::stack<std::deque<state*, std::allocator<state*> >, void>()
+                0x00000000000016ac                std::stack<state*, std::deque<state*, std::allocator<state*> > >::stack<std::deque<state*, std::allocator<state*> >, void>()
+ *fill*         0x00000000000016cb        0x1 
+ .text._ZNSt5dequeIP5stateSaIS1_EED2Ev
+                0x00000000000016cc       0x94 src/state.o
+                0x00000000000016cc                std::deque<state*, std::allocator<state*> >::~deque()
+                0x00000000000016cc                std::deque<state*, std::allocator<state*> >::~deque()
+ .text._ZNSt5stackIP5stateSt5dequeIS1_SaIS1_EEE4pushERKS1_
+                0x0000000000001760       0x2a src/state.o
+                0x0000000000001760                std::stack<state*, std::deque<state*, std::allocator<state*> > >::push(state* const&)
+ .text._ZNKSt5stackIP5stateSt5dequeIS1_SaIS1_EEE5emptyEv
+                0x000000000000178a       0x1e src/state.o
+                0x000000000000178a                std::stack<state*, std::deque<state*, std::allocator<state*> > >::empty() const
+ .text._ZNSt5stackIP5stateSt5dequeIS1_SaIS1_EEE3topEv
+                0x00000000000017a8       0x1e src/state.o
+                0x00000000000017a8                std::stack<state*, std::deque<state*, std::allocator<state*> > >::top()
+ .text._ZNSt5stackIP5stateSt5dequeIS1_SaIS1_EEE3popEv
+                0x00000000000017c6       0x1f src/state.o
+                0x00000000000017c6                std::stack<state*, std::deque<state*, std::allocator<state*> > >::pop()
+ *fill*         0x00000000000017e5        0x1 
+ .text._ZNSt5dequeIP5stateSaIS1_EEC2Ev
+                0x00000000000017e6       0x1f src/state.o
+                0x00000000000017e6                std::deque<state*, std::allocator<state*> >::deque()
+                0x00000000000017e6                std::deque<state*, std::allocator<state*> >::deque()
+ *fill*         0x0000000000001805        0x1 
+ .text._ZNSt11_Deque_baseIP5stateSaIS1_EE11_Deque_implD2Ev
+                0x0000000000001806       0x1f src/state.o
+                0x0000000000001806                std::_Deque_base<state*, std::allocator<state*> >::_Deque_impl::~_Deque_impl()
+                0x0000000000001806                std::_Deque_base<state*, std::allocator<state*> >::_Deque_impl::~_Deque_impl()
+ *fill*         0x0000000000001825        0x1 
+ .text._ZNSt11_Deque_baseIP5stateSaIS1_EED2Ev
+                0x0000000000001826       0x6c src/state.o
+                0x0000000000001826                std::_Deque_base<state*, std::allocator<state*> >::~_Deque_base()
+                0x0000000000001826                std::_Deque_base<state*, std::allocator<state*> >::~_Deque_base()
+ .text._ZNSt5dequeIP5stateSaIS1_EE5beginEv
+                0x0000000000001892       0x31 src/state.o
+                0x0000000000001892                std::deque<state*, std::allocator<state*> >::begin()
+ *fill*         0x00000000000018c3        0x1 
+ .text._ZNSt5dequeIP5stateSaIS1_EE3endEv
+                0x00000000000018c4       0x31 src/state.o
+                0x00000000000018c4                std::deque<state*, std::allocator<state*> >::end()
+ *fill*         0x00000000000018f5        0x1 
+ .text._ZNSt11_Deque_baseIP5stateSaIS1_EE19_M_get_Tp_allocatorEv
+                0x00000000000018f6       0x12 src/state.o
+                0x00000000000018f6                std::_Deque_base<state*, std::allocator<state*> >::_M_get_Tp_allocator()
+ .text._ZNSt15_Deque_iteratorIP5stateRS1_PS1_EC2ERKS4_
+                0x0000000000001908       0x51 src/state.o
+                0x0000000000001908                std::_Deque_iterator<state*, state*&, state**>::_Deque_iterator(std::_Deque_iterator<state*, state*&, state**> const&)
+                0x0000000000001908                std::_Deque_iterator<state*, state*&, state**>::_Deque_iterator(std::_Deque_iterator<state*, state*&, state**> const&)
+ *fill*         0x0000000000001959        0x1 
+ .text._ZNSt5dequeIP5stateSaIS1_EE15_M_destroy_dataESt15_Deque_iteratorIS1_RS1_PS1_ES7_RKS2_
+                0x000000000000195a       0x42 src/state.o
+                0x000000000000195a                std::deque<state*, std::allocator<state*> >::_M_destroy_data(std::_Deque_iterator<state*, state*&, state**>, std::_Deque_iterator<state*, state*&, state**>, std::allocator<state*> const&)
+ .text._ZNSt5dequeIP5stateSaIS1_EE9push_backERKS1_
+                0x000000000000199c       0x74 src/state.o
+                0x000000000000199c                std::deque<state*, std::allocator<state*> >::push_back(state* const&)
+ .text._ZNKSt5dequeIP5stateSaIS1_EE5emptyEv
+                0x0000000000001a10       0x2d src/state.o
+                0x0000000000001a10                std::deque<state*, std::allocator<state*> >::empty() const
+ *fill*         0x0000000000001a3d        0x1 
+ .text._ZNSt5dequeIP5stateSaIS1_EE4backEv
+                0x0000000000001a3e       0x60 src/state.o
+                0x0000000000001a3e                std::deque<state*, std::allocator<state*> >::back()
+ .text._ZNSt5dequeIP5stateSaIS1_EE8pop_backEv
+                0x0000000000001a9e       0x61 src/state.o
+                0x0000000000001a9e                std::deque<state*, std::allocator<state*> >::pop_back()
+ *fill*         0x0000000000001aff        0x1 
+ .text._ZNSt11_Deque_baseIP5stateSaIS1_EEC2Ev
+                0x0000000000001b00       0x55 src/state.o
+                0x0000000000001b00                std::_Deque_base<state*, std::allocator<state*> >::_Deque_base()
+                0x0000000000001b00                std::_Deque_base<state*, std::allocator<state*> >::_Deque_base()
+ *fill*         0x0000000000001b55        0x1 
+ .text._ZNSaIP5stateED2Ev
+                0x0000000000001b56       0x1f src/state.o
+                0x0000000000001b56                std::allocator<state*>::~allocator()
+                0x0000000000001b56                std::allocator<state*>::~allocator()
+ *fill*         0x0000000000001b75        0x1 
+ .text._ZNSt11_Deque_baseIP5stateSaIS1_EE16_M_destroy_nodesEPPS1_S5_
+                0x0000000000001b76       0x4a src/state.o
+                0x0000000000001b76                std::_Deque_base<state*, std::allocator<state*> >::_M_destroy_nodes(state***, state***)
+ .text._ZNSt11_Deque_baseIP5stateSaIS1_EE17_M_deallocate_mapEPPS1_m
+                0x0000000000001bc0       0x74 src/state.o
+                0x0000000000001bc0                std::_Deque_base<state*, std::allocator<state*> >::_M_deallocate_map(state***, unsigned long)
+ .text._ZNSt16allocator_traitsISaIP5stateEE9constructIS1_JRKS1_EEEvRS2_PT_DpOT0_
+                0x0000000000001c34       0x3d src/state.o
+                0x0000000000001c34                void std::allocator_traits<std::allocator<state*> >::construct<state*, state* const&>(std::allocator<state*>&, state**, state* const&)
+ *fill*         0x0000000000001c71        0x1 
+ .text._ZNSt5dequeIP5stateSaIS1_EE16_M_push_back_auxIJRKS1_EEEvDpOT_
+                0x0000000000001c72       0xcf src/state.o
+                0x0000000000001c72                void std::deque<state*, std::allocator<state*> >::_M_push_back_aux<state* const&>(state* const&)
+ .text._ZSteqIP5stateRS1_PS1_EbRKSt15_Deque_iteratorIT_T0_T1_ESA_
+                0x0000000000001d41       0x26 src/state.o
+                0x0000000000001d41                bool std::operator==<state*, state*&, state**>(std::_Deque_iterator<state*, state*&, state**> const&, std::_Deque_iterator<state*, state*&, state**> const&)
+ *fill*         0x0000000000001d67        0x1 
+ .text._ZNSt15_Deque_iteratorIP5stateRS1_PS1_EmmEv
+                0x0000000000001d68       0x66 src/state.o
+                0x0000000000001d68                std::_Deque_iterator<state*, state*&, state**>::operator--()
+ .text._ZNKSt15_Deque_iteratorIP5stateRS1_PS1_EdeEv
+                0x0000000000001dce       0x15 src/state.o
+                0x0000000000001dce                std::_Deque_iterator<state*, state*&, state**>::operator*() const
+ .text._ZNSt16allocator_traitsISaIP5stateEE7destroyIS1_EEvRS2_PT_
+                0x0000000000001de3       0x2a src/state.o
+                0x0000000000001de3                void std::allocator_traits<std::allocator<state*> >::destroy<state*>(std::allocator<state*>&, state**)
+ *fill*         0x0000000000001e0d        0x1 
+ .text._ZNSt5dequeIP5stateSaIS1_EE15_M_pop_back_auxEv
+                0x0000000000001e0e       0x82 src/state.o
+                0x0000000000001e0e                std::deque<state*, std::allocator<state*> >::_M_pop_back_aux()
+ .text._ZNSt11_Deque_baseIP5stateSaIS1_EE11_Deque_implC2Ev
+                0x0000000000001e90       0x56 src/state.o
+                0x0000000000001e90                std::_Deque_base<state*, std::allocator<state*> >::_Deque_impl::_Deque_impl()
+                0x0000000000001e90                std::_Deque_base<state*, std::allocator<state*> >::_Deque_impl::_Deque_impl()
+ .text._ZNSt11_Deque_baseIP5stateSaIS1_EE17_M_initialize_mapEm
+                0x0000000000001ee6      0x1d8 src/state.o
+                0x0000000000001ee6                std::_Deque_base<state*, std::allocator<state*> >::_M_initialize_map(unsigned long)
+ .text._ZN9__gnu_cxx13new_allocatorIP5stateED2Ev
+                0x00000000000020be        0xf src/state.o
+                0x00000000000020be                __gnu_cxx::new_allocator<state*>::~new_allocator()
+                0x00000000000020be                __gnu_cxx::new_allocator<state*>::~new_allocator()
+ *fill*         0x00000000000020cd        0x1 
+ .text._ZNSt11_Deque_baseIP5stateSaIS1_EE18_M_deallocate_nodeEPS1_
+                0x00000000000020ce       0x37 src/state.o
+                0x00000000000020ce                std::_Deque_base<state*, std::allocator<state*> >::_M_deallocate_node(state**)
+ *fill*         0x0000000000002105        0x1 
+ .text._ZNKSt11_Deque_baseIP5stateSaIS1_EE20_M_get_map_allocatorEv
+                0x0000000000002106       0x38 src/state.o
+                0x0000000000002106                std::_Deque_base<state*, std::allocator<state*> >::_M_get_map_allocator() const
+ .text._ZNSaIPP5stateED2Ev
+                0x000000000000213e       0x1f src/state.o
+                0x000000000000213e                std::allocator<state**>::~allocator()
+                0x000000000000213e                std::allocator<state**>::~allocator()
+ .text._ZNSt16allocator_traitsISaIPP5stateEE10deallocateERS3_PS2_m
+                0x000000000000215d       0x32 src/state.o
+                0x000000000000215d                std::allocator_traits<std::allocator<state**> >::deallocate(std::allocator<state**>&, state***, unsigned long)
+ .text._ZSt7forwardIRKP5stateEOT_RNSt16remove_referenceIS4_E4typeE
+                0x000000000000218f       0x12 src/state.o
+                0x000000000000218f                state* const& std::forward<state* const&>(std::remove_reference<state* const&>::type&)
+ *fill*         0x00000000000021a1        0x1 
+ .text._ZN9__gnu_cxx13new_allocatorIP5stateE9constructIS2_JRKS2_EEEvPT_DpOT0_
+                0x00000000000021a2       0x44 src/state.o
+                0x00000000000021a2                void __gnu_cxx::new_allocator<state*>::construct<state*, state* const&>(state**, state* const&)
+ .text._ZNKSt5dequeIP5stateSaIS1_EE4sizeEv
+                0x00000000000021e6       0x2d src/state.o
+                0x00000000000021e6                std::deque<state*, std::allocator<state*> >::size() const
+ *fill*         0x0000000000002213        0x1 
+ .text._ZNKSt5dequeIP5stateSaIS1_EE8max_sizeEv
+                0x0000000000002214       0x26 src/state.o
+                0x0000000000002214                std::deque<state*, std::allocator<state*> >::max_size() const
+ .text._ZNSt5dequeIP5stateSaIS1_EE22_M_reserve_map_at_backEm
+                0x000000000000223a       0x63 src/state.o
+                0x000000000000223a                std::deque<state*, std::allocator<state*> >::_M_reserve_map_at_back(unsigned long)
+ *fill*         0x000000000000229d        0x1 
+ .text._ZNSt11_Deque_baseIP5stateSaIS1_EE16_M_allocate_nodeEv
+                0x000000000000229e       0x2e src/state.o
+                0x000000000000229e                std::_Deque_base<state*, std::allocator<state*> >::_M_allocate_node()
+ .text._ZNSt15_Deque_iteratorIP5stateRS1_PS1_E11_M_set_nodeEPS3_
+                0x00000000000022cc       0x55 src/state.o
+                0x00000000000022cc                std::_Deque_iterator<state*, state*&, state**>::_M_set_node(state***)
+ *fill*         0x0000000000002321        0x1 
+ .text._ZN9__gnu_cxx13new_allocatorIP5stateE7destroyIS2_EEvPT_
+                0x0000000000002322       0x13 src/state.o
+                0x0000000000002322                void __gnu_cxx::new_allocator<state*>::destroy<state*>(state**)
+ *fill*         0x0000000000002335        0x1 
+ .text._ZNSaIP5stateEC2Ev
+                0x0000000000002336       0x1f src/state.o
+                0x0000000000002336                std::allocator<state*>::allocator()
+                0x0000000000002336                std::allocator<state*>::allocator()
+ *fill*         0x0000000000002355        0x1 
+ .text._ZNSt15_Deque_iteratorIP5stateRS1_PS1_EC2Ev
+                0x0000000000002356       0x3e src/state.o
+                0x0000000000002356                std::_Deque_iterator<state*, state*&, state**>::_Deque_iterator()
+                0x0000000000002356                std::_Deque_iterator<state*, state*&, state**>::_Deque_iterator()
+ .text._ZSt3maxImERKT_S2_S2_
+                0x0000000000002394       0x2f src/state.o
+                0x0000000000002394                unsigned long const& std::max<unsigned long>(unsigned long const&, unsigned long const&)
+ *fill*         0x00000000000023c3        0x1 
+ .text._ZNSt11_Deque_baseIP5stateSaIS1_EE15_M_allocate_mapEm
+                0x00000000000023c4       0x98 src/state.o
+                0x00000000000023c4                std::_Deque_base<state*, std::allocator<state*> >::_M_allocate_map(unsigned long)
+ .text._ZNSt11_Deque_baseIP5stateSaIS1_EE15_M_create_nodesEPPS1_S5_
+                0x000000000000245c       0x8c src/state.o
+                0x000000000000245c                std::_Deque_base<state*, std::allocator<state*> >::_M_create_nodes(state***, state***)
+ .text._ZNSt16allocator_traitsISaIP5stateEE10deallocateERS2_PS1_m
+                0x00000000000024e8       0x32 src/state.o
+                0x00000000000024e8                std::allocator_traits<std::allocator<state*> >::deallocate(std::allocator<state*>&, state**, unsigned long)
+ .text._ZNKSt11_Deque_baseIP5stateSaIS1_EE19_M_get_Tp_allocatorEv
+                0x000000000000251a       0x12 src/state.o
+                0x000000000000251a                std::_Deque_base<state*, std::allocator<state*> >::_M_get_Tp_allocator() const
+ .text._ZNSaIPP5stateEC2IS0_EERKSaIT_E
+                0x000000000000252c       0x23 src/state.o
+                0x000000000000252c                std::allocator<state**>::allocator<state*>(std::allocator<state*> const&)
+                0x000000000000252c                std::allocator<state**>::allocator<state*>(std::allocator<state*> const&)
+ *fill*         0x000000000000254f        0x1 
+ .text._ZN9__gnu_cxx13new_allocatorIPP5stateED2Ev
+                0x0000000000002550        0xf src/state.o
+                0x0000000000002550                __gnu_cxx::new_allocator<state**>::~new_allocator()
+                0x0000000000002550                __gnu_cxx::new_allocator<state**>::~new_allocator()
+ *fill*         0x000000000000255f        0x1 
+ .text._ZN9__gnu_cxx13new_allocatorIPP5stateE10deallocateEPS3_m
+                0x0000000000002560       0x27 src/state.o
+                0x0000000000002560                __gnu_cxx::new_allocator<state**>::deallocate(state***, unsigned long)
+ .text._ZStmiIP5stateRS1_PS1_ENSt15_Deque_iteratorIT_T0_T1_E15difference_typeERKS8_SB_
+                0x0000000000002587       0x7c src/state.o
+                0x0000000000002587                std::_Deque_iterator<state*, state*&, state**>::difference_type std::operator-<state*, state*&, state**>(std::_Deque_iterator<state*, state*&, state**> const&, std::_Deque_iterator<state*, state*&, state**> const&)
+ .text._ZNSt5dequeIP5stateSaIS1_EE11_S_max_sizeERKS2_
+                0x0000000000002603       0x69 src/state.o
+                0x0000000000002603                std::deque<state*, std::allocator<state*> >::_S_max_size(std::allocator<state*> const&)
+ .text._ZNSt5dequeIP5stateSaIS1_EE17_M_reallocate_mapEmb
+                0x000000000000266c      0x224 src/state.o
+                0x000000000000266c                std::deque<state*, std::allocator<state*> >::_M_reallocate_map(unsigned long, bool)
+ .text._ZNSt16allocator_traitsISaIP5stateEE8allocateERS2_m
+                0x0000000000002890       0x2e src/state.o
+                0x0000000000002890                std::allocator_traits<std::allocator<state*> >::allocate(std::allocator<state*>&, unsigned long)
+ .text._ZNSt15_Deque_iteratorIP5stateRS1_PS1_E14_S_buffer_sizeEv
+                0x00000000000028be       0x14 src/state.o
+                0x00000000000028be                std::_Deque_iterator<state*, state*&, state**>::_S_buffer_size()
+ .text._ZN9__gnu_cxx13new_allocatorIP5stateEC2Ev
+                0x00000000000028d2        0xf src/state.o
+                0x00000000000028d2                __gnu_cxx::new_allocator<state*>::new_allocator()
+                0x00000000000028d2                __gnu_cxx::new_allocator<state*>::new_allocator()
+ .text._ZNSt16allocator_traitsISaIPP5stateEE8allocateERS3_m
+                0x00000000000028e1       0x2e src/state.o
+                0x00000000000028e1                std::allocator_traits<std::allocator<state**> >::allocate(std::allocator<state**>&, unsigned long)
+ *fill*         0x000000000000290f        0x1 
+ .text._ZN9__gnu_cxx13new_allocatorIP5stateE10deallocateEPS2_m
+                0x0000000000002910       0x27 src/state.o
+                0x0000000000002910                __gnu_cxx::new_allocator<state*>::deallocate(state**, unsigned long)
+ *fill*         0x0000000000002937        0x1 
+ .text._ZN9__gnu_cxx13new_allocatorIPP5stateEC2Ev
+                0x0000000000002938        0xf src/state.o
+                0x0000000000002938                __gnu_cxx::new_allocator<state**>::new_allocator()
+                0x0000000000002938                __gnu_cxx::new_allocator<state**>::new_allocator()
+ .text._ZNSt16allocator_traitsISaIP5stateEE8max_sizeERKS2_
+                0x0000000000002947       0x1e src/state.o
+                0x0000000000002947                std::allocator_traits<std::allocator<state*> >::max_size(std::allocator<state*> const&)
+ .text._ZSt3minImERKT_S2_S2_
+                0x0000000000002965       0x2f src/state.o
+                0x0000000000002965                unsigned long const& std::min<unsigned long>(unsigned long const&, unsigned long const&)
+ .text._ZSt4copyIPPP5stateS3_ET0_T_S5_S4_
+                0x0000000000002994       0x50 src/state.o
+                0x0000000000002994                state*** std::copy<state***, state***>(state***, state***, state***)
+ .text._ZSt13copy_backwardIPPP5stateS3_ET0_T_S5_S4_
+                0x00000000000029e4       0x50 src/state.o
+                0x00000000000029e4                state*** std::copy_backward<state***, state***>(state***, state***, state***)
+ .text._ZN9__gnu_cxx13new_allocatorIP5stateE8allocateEmPKv
+                0x0000000000002a34       0x46 src/state.o
+                0x0000000000002a34                __gnu_cxx::new_allocator<state*>::allocate(unsigned long, void const*)
+ .text._ZN9__gnu_cxx13new_allocatorIPP5stateE8allocateEmPKv
+                0x0000000000002a7a       0x46 src/state.o
+                0x0000000000002a7a                __gnu_cxx::new_allocator<state**>::allocate(unsigned long, void const*)
+ .text._ZNK9__gnu_cxx13new_allocatorIP5stateE8max_sizeEv
+                0x0000000000002ac0       0x18 src/state.o
+                0x0000000000002ac0                __gnu_cxx::new_allocator<state*>::max_size() const
+ .text._ZSt12__miter_baseIPPP5stateET_S4_
+                0x0000000000002ad8       0x12 src/state.o
+                0x0000000000002ad8                state*** std::__miter_base<state***>(state***)
+ .text._ZSt14__copy_move_a2ILb0EPPP5stateS3_ET1_T0_S5_S4_
+                0x0000000000002aea       0x6e src/state.o
+                0x0000000000002aea                state*** std::__copy_move_a2<false, state***, state***>(state***, state***, state***)
+ .text._ZSt23__copy_move_backward_a2ILb0EPPP5stateS3_ET1_T0_S5_S4_
+                0x0000000000002b58       0x6e src/state.o
+                0x0000000000002b58                state*** std::__copy_move_backward_a2<false, state***, state***>(state***, state***, state***)
+ .text._ZNK9__gnu_cxx13new_allocatorIPP5stateE8max_sizeEv
+                0x0000000000002bc6       0x18 src/state.o
+                0x0000000000002bc6                __gnu_cxx::new_allocator<state**>::max_size() const
+ .text._ZSt12__niter_baseIPPP5stateET_S4_
+                0x0000000000002bde       0x12 src/state.o
+                0x0000000000002bde                state*** std::__niter_base<state***>(state***)
+ .text._ZSt13__copy_move_aILb0EPPP5stateS3_ET1_T0_S5_S4_
+                0x0000000000002bf0       0x35 src/state.o
+                0x0000000000002bf0                state*** std::__copy_move_a<false, state***, state***>(state***, state***, state***)
+ .text._ZSt12__niter_wrapIPPP5stateET_RKS4_S4_
+                0x0000000000002c25       0x16 src/state.o
+                0x0000000000002c25                state*** std::__niter_wrap<state***>(state*** const&, state***)
+ .text._ZSt22__copy_move_backward_aILb0EPPP5stateS3_ET1_T0_S5_S4_
+                0x0000000000002c3b       0x35 src/state.o
+                0x0000000000002c3b                state*** std::__copy_move_backward_a<false, state***, state***>(state***, state***, state***)
+ .text._ZNSt11__copy_moveILb0ELb1ESt26random_access_iterator_tagE8__copy_mIPP5stateEEPT_PKS6_S9_S7_
+                0x0000000000002c70       0x63 src/state.o
+                0x0000000000002c70                state*** std::__copy_move<false, true, std::random_access_iterator_tag>::__copy_m<state**>(state** const*, state** const*, state***)
+ .text._ZNSt20__copy_move_backwardILb0ELb1ESt26random_access_iterator_tagE13__copy_move_bIPP5stateEEPT_PKS6_S9_S7_
+                0x0000000000002cd3       0x76 src/state.o
+                0x0000000000002cd3                state*** std::__copy_move_backward<false, true, std::random_access_iterator_tag>::__copy_move_b<state**>(state** const*, state** const*, state***)
+ *fill*         0x0000000000002d49        0x1 
+ .text          0x0000000000002d4a      0x136 src/frag.o
+                0x0000000000002d4a                frag::frag(state*, frag::ptrlist*)
+                0x0000000000002d4a                frag::frag(state*, frag::ptrlist*)
+                0x0000000000002d78                frag::list1(state**)
+                0x0000000000002d9e                frag::patch(frag::ptrlist*, state*)
+                0x0000000000002dd8                frag::append(frag::ptrlist*, frag::ptrlist*)
+ .text          0x0000000000002e80      0x879 src/main.o
+                0x0000000000002e80                main
+ *fill*         0x00000000000036f9        0x1 
+ .text._ZNSt5stackIP4fragSt5dequeIS1_SaIS1_EEED2Ev
+                0x00000000000036fa       0x1f src/main.o
+                0x00000000000036fa                std::stack<frag*, std::deque<frag*, std::allocator<frag*> > >::~stack()
+                0x00000000000036fa                std::stack<frag*, std::deque<frag*, std::allocator<frag*> > >::~stack()
+ *fill*         0x0000000000003719        0x1 
+ .text._ZNSt5stackIP4fragSt5dequeIS1_SaIS1_EEEC2IS4_vEEv
+                0x000000000000371a       0x1f src/main.o
+                0x000000000000371a                std::stack<frag*, std::deque<frag*, std::allocator<frag*> > >::stack<std::deque<frag*, std::allocator<frag*> >, void>()
+                0x000000000000371a                std::stack<frag*, std::deque<frag*, std::allocator<frag*> > >::stack<std::deque<frag*, std::allocator<frag*> >, void>()
+ *fill*         0x0000000000003739        0x1 
+ .text._ZNSt5dequeIP4fragSaIS1_EED2Ev
+                0x000000000000373a       0x94 src/main.o
+                0x000000000000373a                std::deque<frag*, std::allocator<frag*> >::~deque()
+                0x000000000000373a                std::deque<frag*, std::allocator<frag*> >::~deque()
+ .text._ZNSt5stackIP4fragSt5dequeIS1_SaIS1_EEE3topEv
+                0x00000000000037ce       0x1e src/main.o
+                0x00000000000037ce                std::stack<frag*, std::deque<frag*, std::allocator<frag*> > >::top()
+ .text._ZNSt5stackIP4fragSt5dequeIS1_SaIS1_EEE3popEv
+                0x00000000000037ec       0x1f src/main.o
+                0x00000000000037ec                std::stack<frag*, std::deque<frag*, std::allocator<frag*> > >::pop()
+ *fill*         0x000000000000380b        0x1 
+ .text._ZNSt5stackIP4fragSt5dequeIS1_SaIS1_EEE4pushEOS1_
+                0x000000000000380c       0x38 src/main.o
+                0x000000000000380c                std::stack<frag*, std::deque<frag*, std::allocator<frag*> > >::push(frag*&&)
+ .text._ZNSt5stackIP4fragSt5dequeIS1_SaIS1_EEE4pushERKS1_
+                0x0000000000003844       0x2a src/main.o
+                0x0000000000003844                std::stack<frag*, std::deque<frag*, std::allocator<frag*> > >::push(frag* const&)
+ .text._ZNSt5dequeIP4fragSaIS1_EEC2Ev
+                0x000000000000386e       0x1f src/main.o
+                0x000000000000386e                std::deque<frag*, std::allocator<frag*> >::deque()
+                0x000000000000386e                std::deque<frag*, std::allocator<frag*> >::deque()
+ *fill*         0x000000000000388d        0x1 
+ .text._ZNSt11_Deque_baseIP4fragSaIS1_EE11_Deque_implD2Ev
+                0x000000000000388e       0x1f src/main.o
+                0x000000000000388e                std::_Deque_base<frag*, std::allocator<frag*> >::_Deque_impl::~_Deque_impl()
+                0x000000000000388e                std::_Deque_base<frag*, std::allocator<frag*> >::_Deque_impl::~_Deque_impl()
+ *fill*         0x00000000000038ad        0x1 
+ .text._ZNSt11_Deque_baseIP4fragSaIS1_EED2Ev
+                0x00000000000038ae       0x6c src/main.o
+                0x00000000000038ae                std::_Deque_base<frag*, std::allocator<frag*> >::~_Deque_base()
+                0x00000000000038ae                std::_Deque_base<frag*, std::allocator<frag*> >::~_Deque_base()
+ .text._ZNSt5dequeIP4fragSaIS1_EE5beginEv
+                0x000000000000391a       0x31 src/main.o
+                0x000000000000391a                std::deque<frag*, std::allocator<frag*> >::begin()
+ *fill*         0x000000000000394b        0x1 
+ .text._ZNSt5dequeIP4fragSaIS1_EE3endEv
+                0x000000000000394c       0x31 src/main.o
+                0x000000000000394c                std::deque<frag*, std::allocator<frag*> >::end()
+ *fill*         0x000000000000397d        0x1 
+ .text._ZNSt11_Deque_baseIP4fragSaIS1_EE19_M_get_Tp_allocatorEv
+                0x000000000000397e       0x12 src/main.o
+                0x000000000000397e                std::_Deque_base<frag*, std::allocator<frag*> >::_M_get_Tp_allocator()
+ .text._ZNSt15_Deque_iteratorIP4fragRS1_PS1_EC2ERKS4_
+                0x0000000000003990       0x51 src/main.o
+                0x0000000000003990                std::_Deque_iterator<frag*, frag*&, frag**>::_Deque_iterator(std::_Deque_iterator<frag*, frag*&, frag**> const&)
+                0x0000000000003990                std::_Deque_iterator<frag*, frag*&, frag**>::_Deque_iterator(std::_Deque_iterator<frag*, frag*&, frag**> const&)
+ *fill*         0x00000000000039e1        0x1 
+ .text._ZNSt5dequeIP4fragSaIS1_EE15_M_destroy_dataESt15_Deque_iteratorIS1_RS1_PS1_ES7_RKS2_
+                0x00000000000039e2       0x42 src/main.o
+                0x00000000000039e2                std::deque<frag*, std::allocator<frag*> >::_M_destroy_data(std::_Deque_iterator<frag*, frag*&, frag**>, std::_Deque_iterator<frag*, frag*&, frag**>, std::allocator<frag*> const&)
+ .text._ZNSt5dequeIP4fragSaIS1_EE4backEv
+                0x0000000000003a24       0x60 src/main.o
+                0x0000000000003a24                std::deque<frag*, std::allocator<frag*> >::back()
+ .text._ZNSt5dequeIP4fragSaIS1_EE8pop_backEv
+                0x0000000000003a84       0x61 src/main.o
+                0x0000000000003a84                std::deque<frag*, std::allocator<frag*> >::pop_back()
+ .text._ZSt4moveIRP4fragEONSt16remove_referenceIT_E4typeEOS4_
+                0x0000000000003ae5       0x12 src/main.o
+                0x0000000000003ae5                std::remove_reference<frag*&>::type&& std::move<frag*&>(frag*&)
+ *fill*         0x0000000000003af7        0x1 
+ .text._ZNSt5dequeIP4fragSaIS1_EE9push_backEOS1_
+                0x0000000000003af8       0x35 src/main.o
+                0x0000000000003af8                std::deque<frag*, std::allocator<frag*> >::push_back(frag*&&)
+ *fill*         0x0000000000003b2d        0x1 
+ .text._ZNSt5dequeIP4fragSaIS1_EE9push_backERKS1_
+                0x0000000000003b2e       0x74 src/main.o
+                0x0000000000003b2e                std::deque<frag*, std::allocator<frag*> >::push_back(frag* const&)
+ .text._ZNSt11_Deque_baseIP4fragSaIS1_EEC2Ev
+                0x0000000000003ba2       0x55 src/main.o
+                0x0000000000003ba2                std::_Deque_base<frag*, std::allocator<frag*> >::_Deque_base()
+                0x0000000000003ba2                std::_Deque_base<frag*, std::allocator<frag*> >::_Deque_base()
+ *fill*         0x0000000000003bf7        0x1 
+ .text._ZNSaIP4fragED2Ev
+                0x0000000000003bf8       0x1f src/main.o
+                0x0000000000003bf8                std::allocator<frag*>::~allocator()
+                0x0000000000003bf8                std::allocator<frag*>::~allocator()
+ *fill*         0x0000000000003c17        0x1 
+ .text._ZNSt11_Deque_baseIP4fragSaIS1_EE16_M_destroy_nodesEPPS1_S5_
+                0x0000000000003c18       0x4a src/main.o
+                0x0000000000003c18                std::_Deque_base<frag*, std::allocator<frag*> >::_M_destroy_nodes(frag***, frag***)
+ .text._ZNSt11_Deque_baseIP4fragSaIS1_EE17_M_deallocate_mapEPPS1_m
+                0x0000000000003c62       0x74 src/main.o
+                0x0000000000003c62                std::_Deque_base<frag*, std::allocator<frag*> >::_M_deallocate_map(frag***, unsigned long)
+ .text._ZNSt15_Deque_iteratorIP4fragRS1_PS1_EmmEv
+                0x0000000000003cd6       0x66 src/main.o
+                0x0000000000003cd6                std::_Deque_iterator<frag*, frag*&, frag**>::operator--()
+ .text._ZNKSt15_Deque_iteratorIP4fragRS1_PS1_EdeEv
+                0x0000000000003d3c       0x15 src/main.o
+                0x0000000000003d3c                std::_Deque_iterator<frag*, frag*&, frag**>::operator*() const
+ .text._ZNSt16allocator_traitsISaIP4fragEE7destroyIS1_EEvRS2_PT_
+                0x0000000000003d51       0x2a src/main.o
+                0x0000000000003d51                void std::allocator_traits<std::allocator<frag*> >::destroy<frag*>(std::allocator<frag*>&, frag**)
+ *fill*         0x0000000000003d7b        0x1 
+ .text._ZNSt5dequeIP4fragSaIS1_EE15_M_pop_back_auxEv
+                0x0000000000003d7c       0x82 src/main.o
+                0x0000000000003d7c                std::deque<frag*, std::allocator<frag*> >::_M_pop_back_aux()
+ .text._ZNSt5dequeIP4fragSaIS1_EE12emplace_backIJS1_EEEvDpOT_
+                0x0000000000003dfe       0x8a src/main.o
+                0x0000000000003dfe                void std::deque<frag*, std::allocator<frag*> >::emplace_back<frag*>(frag*&&)
+ .text._ZNSt16allocator_traitsISaIP4fragEE9constructIS1_JRKS1_EEEvRS2_PT_DpOT0_
+                0x0000000000003e88       0x3d src/main.o
+                0x0000000000003e88                void std::allocator_traits<std::allocator<frag*> >::construct<frag*, frag* const&>(std::allocator<frag*>&, frag**, frag* const&)
+ *fill*         0x0000000000003ec5        0x1 
+ .text._ZNSt5dequeIP4fragSaIS1_EE16_M_push_back_auxIJRKS1_EEEvDpOT_
+                0x0000000000003ec6       0xcf src/main.o
+                0x0000000000003ec6                void std::deque<frag*, std::allocator<frag*> >::_M_push_back_aux<frag* const&>(frag* const&)
+ *fill*         0x0000000000003f95        0x1 
+ .text._ZNSt11_Deque_baseIP4fragSaIS1_EE11_Deque_implC2Ev
+                0x0000000000003f96       0x56 src/main.o
+                0x0000000000003f96                std::_Deque_base<frag*, std::allocator<frag*> >::_Deque_impl::_Deque_impl()
+                0x0000000000003f96                std::_Deque_base<frag*, std::allocator<frag*> >::_Deque_impl::_Deque_impl()
+ .text._ZNSt11_Deque_baseIP4fragSaIS1_EE17_M_initialize_mapEm
+                0x0000000000003fec      0x1d8 src/main.o
+                0x0000000000003fec                std::_Deque_base<frag*, std::allocator<frag*> >::_M_initialize_map(unsigned long)
+ .text._ZN9__gnu_cxx13new_allocatorIP4fragED2Ev
+                0x00000000000041c4        0xf src/main.o
+                0x00000000000041c4                __gnu_cxx::new_allocator<frag*>::~new_allocator()
+                0x00000000000041c4                __gnu_cxx::new_allocator<frag*>::~new_allocator()
+ *fill*         0x00000000000041d3        0x1 
+ .text._ZNSt11_Deque_baseIP4fragSaIS1_EE18_M_deallocate_nodeEPS1_
+                0x00000000000041d4       0x37 src/main.o
+                0x00000000000041d4                std::_Deque_base<frag*, std::allocator<frag*> >::_M_deallocate_node(frag**)
+ *fill*         0x000000000000420b        0x1 
+ .text._ZNKSt11_Deque_baseIP4fragSaIS1_EE20_M_get_map_allocatorEv
+                0x000000000000420c       0x38 src/main.o
+                0x000000000000420c                std::_Deque_base<frag*, std::allocator<frag*> >::_M_get_map_allocator() const
+ .text._ZNSaIPP4fragED2Ev
+                0x0000000000004244       0x1f src/main.o
+                0x0000000000004244                std::allocator<frag**>::~allocator()
+                0x0000000000004244                std::allocator<frag**>::~allocator()
+ .text._ZNSt16allocator_traitsISaIPP4fragEE10deallocateERS3_PS2_m
+                0x0000000000004263       0x32 src/main.o
+                0x0000000000004263                std::allocator_traits<std::allocator<frag**> >::deallocate(std::allocator<frag**>&, frag***, unsigned long)
+ *fill*         0x0000000000004295        0x1 
+ .text._ZNSt15_Deque_iteratorIP4fragRS1_PS1_E11_M_set_nodeEPS3_
+                0x0000000000004296       0x55 src/main.o
+                0x0000000000004296                std::_Deque_iterator<frag*, frag*&, frag**>::_M_set_node(frag***)
+ *fill*         0x00000000000042eb        0x1 
+ .text._ZN9__gnu_cxx13new_allocatorIP4fragE7destroyIS2_EEvPT_
+                0x00000000000042ec       0x13 src/main.o
+                0x00000000000042ec                void __gnu_cxx::new_allocator<frag*>::destroy<frag*>(frag**)
+ .text._ZSt7forwardIP4fragEOT_RNSt16remove_referenceIS2_E4typeE
+                0x00000000000042ff       0x12 src/main.o
+                0x00000000000042ff                frag*&& std::forward<frag*>(std::remove_reference<frag*>::type&)
+ .text._ZNSt16allocator_traitsISaIP4fragEE9constructIS1_JS1_EEEvRS2_PT_DpOT0_
+                0x0000000000004311       0x3d src/main.o
+                0x0000000000004311                void std::allocator_traits<std::allocator<frag*> >::construct<frag*, frag*>(std::allocator<frag*>&, frag**, frag*&&)
+ .text._ZNSt5dequeIP4fragSaIS1_EE16_M_push_back_auxIJS1_EEEvDpOT_
+                0x000000000000434e       0xcf src/main.o
+                0x000000000000434e                void std::deque<frag*, std::allocator<frag*> >::_M_push_back_aux<frag*>(frag*&&)
+ .text._ZSt7forwardIRKP4fragEOT_RNSt16remove_referenceIS4_E4typeE
+                0x000000000000441d       0x12 src/main.o
+                0x000000000000441d                frag* const& std::forward<frag* const&>(std::remove_reference<frag* const&>::type&)
+ *fill*         0x000000000000442f        0x1 
+ .text._ZN9__gnu_cxx13new_allocatorIP4fragE9constructIS2_JRKS2_EEEvPT_DpOT0_
+                0x0000000000004430       0x44 src/main.o
+                0x0000000000004430                void __gnu_cxx::new_allocator<frag*>::construct<frag*, frag* const&>(frag**, frag* const&)
+ .text._ZNKSt5dequeIP4fragSaIS1_EE4sizeEv
+                0x0000000000004474       0x2d src/main.o
+                0x0000000000004474                std::deque<frag*, std::allocator<frag*> >::size() const
+ *fill*         0x00000000000044a1        0x1 
+ .text._ZNKSt5dequeIP4fragSaIS1_EE8max_sizeEv
+                0x00000000000044a2       0x26 src/main.o
+                0x00000000000044a2                std::deque<frag*, std::allocator<frag*> >::max_size() const
+ .text._ZNSt5dequeIP4fragSaIS1_EE22_M_reserve_map_at_backEm
+                0x00000000000044c8       0x63 src/main.o
+                0x00000000000044c8                std::deque<frag*, std::allocator<frag*> >::_M_reserve_map_at_back(unsigned long)
+ *fill*         0x000000000000452b        0x1 
+ .text._ZNSt11_Deque_baseIP4fragSaIS1_EE16_M_allocate_nodeEv
+                0x000000000000452c       0x2e src/main.o
+                0x000000000000452c                std::_Deque_base<frag*, std::allocator<frag*> >::_M_allocate_node()
+ .text._ZNSaIP4fragEC2Ev
+                0x000000000000455a       0x1f src/main.o
+                0x000000000000455a                std::allocator<frag*>::allocator()
+                0x000000000000455a                std::allocator<frag*>::allocator()
+ *fill*         0x0000000000004579        0x1 
+ .text._ZNSt15_Deque_iteratorIP4fragRS1_PS1_EC2Ev
+                0x000000000000457a       0x3e src/main.o
+                0x000000000000457a                std::_Deque_iterator<frag*, frag*&, frag**>::_Deque_iterator()
+                0x000000000000457a                std::_Deque_iterator<frag*, frag*&, frag**>::_Deque_iterator()
+ .text._ZNSt11_Deque_baseIP4fragSaIS1_EE15_M_allocate_mapEm
+                0x00000000000045b8       0x98 src/main.o
+                0x00000000000045b8                std::_Deque_base<frag*, std::allocator<frag*> >::_M_allocate_map(unsigned long)
+ .text._ZNSt11_Deque_baseIP4fragSaIS1_EE15_M_create_nodesEPPS1_S5_
+                0x0000000000004650       0x8c src/main.o
+                0x0000000000004650                std::_Deque_base<frag*, std::allocator<frag*> >::_M_create_nodes(frag***, frag***)
+ .text._ZNSt16allocator_traitsISaIP4fragEE10deallocateERS2_PS1_m
+                0x00000000000046dc       0x32 src/main.o
+                0x00000000000046dc                std::allocator_traits<std::allocator<frag*> >::deallocate(std::allocator<frag*>&, frag**, unsigned long)
+ .text._ZNKSt11_Deque_baseIP4fragSaIS1_EE19_M_get_Tp_allocatorEv
+                0x000000000000470e       0x12 src/main.o
+                0x000000000000470e                std::_Deque_base<frag*, std::allocator<frag*> >::_M_get_Tp_allocator() const
+ .text._ZNSaIPP4fragEC2IS0_EERKSaIT_E
+                0x0000000000004720       0x23 src/main.o
+                0x0000000000004720                std::allocator<frag**>::allocator<frag*>(std::allocator<frag*> const&)
+                0x0000000000004720                std::allocator<frag**>::allocator<frag*>(std::allocator<frag*> const&)
+ *fill*         0x0000000000004743        0x1 
+ .text._ZN9__gnu_cxx13new_allocatorIPP4fragED2Ev
+                0x0000000000004744        0xf src/main.o
+                0x0000000000004744                __gnu_cxx::new_allocator<frag**>::~new_allocator()
+                0x0000000000004744                __gnu_cxx::new_allocator<frag**>::~new_allocator()
+ *fill*         0x0000000000004753        0x1 
+ .text._ZN9__gnu_cxx13new_allocatorIPP4fragE10deallocateEPS3_m
+                0x0000000000004754       0x27 src/main.o
+                0x0000000000004754                __gnu_cxx::new_allocator<frag**>::deallocate(frag***, unsigned long)
+ .text._ZNSt15_Deque_iteratorIP4fragRS1_PS1_E14_S_buffer_sizeEv
+                0x000000000000477b       0x14 src/main.o
+                0x000000000000477b                std::_Deque_iterator<frag*, frag*&, frag**>::_S_buffer_size()
+ *fill*         0x000000000000478f        0x1 
+ .text._ZN9__gnu_cxx13new_allocatorIP4fragE9constructIS2_JS2_EEEvPT_DpOT0_
+                0x0000000000004790       0x44 src/main.o
+                0x0000000000004790                void __gnu_cxx::new_allocator<frag*>::construct<frag*, frag*>(frag**, frag*&&)
+ .text._ZStmiIP4fragRS1_PS1_ENSt15_Deque_iteratorIT_T0_T1_E15difference_typeERKS8_SB_
+                0x00000000000047d4       0x7c src/main.o
+                0x00000000000047d4                std::_Deque_iterator<frag*, frag*&, frag**>::difference_type std::operator-<frag*, frag*&, frag**>(std::_Deque_iterator<frag*, frag*&, frag**> const&, std::_Deque_iterator<frag*, frag*&, frag**> const&)
+ .text._ZNSt5dequeIP4fragSaIS1_EE11_S_max_sizeERKS2_
+                0x0000000000004850       0x69 src/main.o
+                0x0000000000004850                std::deque<frag*, std::allocator<frag*> >::_S_max_size(std::allocator<frag*> const&)
+ *fill*         0x00000000000048b9        0x1 
+ .text._ZNSt5dequeIP4fragSaIS1_EE17_M_reallocate_mapEmb
+                0x00000000000048ba      0x224 src/main.o
+                0x00000000000048ba                std::deque<frag*, std::allocator<frag*> >::_M_reallocate_map(unsigned long, bool)
+ .text._ZNSt16allocator_traitsISaIP4fragEE8allocateERS2_m
+                0x0000000000004ade       0x2e src/main.o
+                0x0000000000004ade                std::allocator_traits<std::allocator<frag*> >::allocate(std::allocator<frag*>&, unsigned long)
+ .text._ZN9__gnu_cxx13new_allocatorIP4fragEC2Ev
+                0x0000000000004b0c        0xf src/main.o
+                0x0000000000004b0c                __gnu_cxx::new_allocator<frag*>::new_allocator()
+                0x0000000000004b0c                __gnu_cxx::new_allocator<frag*>::new_allocator()
+ .text._ZNSt16allocator_traitsISaIPP4fragEE8allocateERS3_m
+                0x0000000000004b1b       0x2e src/main.o
+                0x0000000000004b1b                std::allocator_traits<std::allocator<frag**> >::allocate(std::allocator<frag**>&, unsigned long)
+ *fill*         0x0000000000004b49        0x1 
+ .text._ZN9__gnu_cxx13new_allocatorIP4fragE10deallocateEPS2_m
+                0x0000000000004b4a       0x27 src/main.o
+                0x0000000000004b4a                __gnu_cxx::new_allocator<frag*>::deallocate(frag**, unsigned long)
+ *fill*         0x0000000000004b71        0x1 
+ .text._ZN9__gnu_cxx13new_allocatorIPP4fragEC2Ev
+                0x0000000000004b72        0xf src/main.o
+                0x0000000000004b72                __gnu_cxx::new_allocator<frag**>::new_allocator()
+                0x0000000000004b72                __gnu_cxx::new_allocator<frag**>::new_allocator()
+ .text._ZNSt16allocator_traitsISaIP4fragEE8max_sizeERKS2_
+                0x0000000000004b81       0x1e src/main.o
+                0x0000000000004b81                std::allocator_traits<std::allocator<frag*> >::max_size(std::allocator<frag*> const&)
+ .text._ZSt4copyIPPP4fragS3_ET0_T_S5_S4_
+                0x0000000000004b9f       0x50 src/main.o
+                0x0000000000004b9f                frag*** std::copy<frag***, frag***>(frag***, frag***, frag***)
+ .text._ZSt13copy_backwardIPPP4fragS3_ET0_T_S5_S4_
+                0x0000000000004bef       0x50 src/main.o
+                0x0000000000004bef                frag*** std::copy_backward<frag***, frag***>(frag***, frag***, frag***)
+ *fill*         0x0000000000004c3f        0x1 
+ .text._ZN9__gnu_cxx13new_allocatorIP4fragE8allocateEmPKv
+                0x0000000000004c40       0x46 src/main.o
+                0x0000000000004c40                __gnu_cxx::new_allocator<frag*>::allocate(unsigned long, void const*)
+ .text._ZN9__gnu_cxx13new_allocatorIPP4fragE8allocateEmPKv
+                0x0000000000004c86       0x46 src/main.o
+                0x0000000000004c86                __gnu_cxx::new_allocator<frag**>::allocate(unsigned long, void const*)
+ .text._ZNK9__gnu_cxx13new_allocatorIP4fragE8max_sizeEv
+                0x0000000000004ccc       0x18 src/main.o
+                0x0000000000004ccc                __gnu_cxx::new_allocator<frag*>::max_size() const
+ .text._ZSt12__miter_baseIPPP4fragET_S4_
+                0x0000000000004ce4       0x12 src/main.o
+                0x0000000000004ce4                frag*** std::__miter_base<frag***>(frag***)
+ .text._ZSt14__copy_move_a2ILb0EPPP4fragS3_ET1_T0_S5_S4_
+                0x0000000000004cf6       0x6e src/main.o
+                0x0000000000004cf6                frag*** std::__copy_move_a2<false, frag***, frag***>(frag***, frag***, frag***)
+ .text._ZSt23__copy_move_backward_a2ILb0EPPP4fragS3_ET1_T0_S5_S4_
+                0x0000000000004d64       0x6e src/main.o
+                0x0000000000004d64                frag*** std::__copy_move_backward_a2<false, frag***, frag***>(frag***, frag***, frag***)
+ .text._ZNK9__gnu_cxx13new_allocatorIPP4fragE8max_sizeEv
+                0x0000000000004dd2       0x18 src/main.o
+                0x0000000000004dd2                __gnu_cxx::new_allocator<frag**>::max_size() const
+ .text._ZSt12__niter_baseIPPP4fragET_S4_
+                0x0000000000004dea       0x12 src/main.o
+                0x0000000000004dea                frag*** std::__niter_base<frag***>(frag***)
+ .text._ZSt13__copy_move_aILb0EPPP4fragS3_ET1_T0_S5_S4_
+                0x0000000000004dfc       0x35 src/main.o
+                0x0000000000004dfc                frag*** std::__copy_move_a<false, frag***, frag***>(frag***, frag***, frag***)
+ .text._ZSt12__niter_wrapIPPP4fragET_RKS4_S4_
+                0x0000000000004e31       0x16 src/main.o
+                0x0000000000004e31                frag*** std::__niter_wrap<frag***>(frag*** const&, frag***)
+ .text._ZSt22__copy_move_backward_aILb0EPPP4fragS3_ET1_T0_S5_S4_
+                0x0000000000004e47       0x35 src/main.o
+                0x0000000000004e47                frag*** std::__copy_move_backward_a<false, frag***, frag***>(frag***, frag***, frag***)
+ .text._ZNSt11__copy_moveILb0ELb1ESt26random_access_iterator_tagE8__copy_mIPP4fragEEPT_PKS6_S9_S7_
+                0x0000000000004e7c       0x63 src/main.o
+                0x0000000000004e7c                frag*** std::__copy_move<false, true, std::random_access_iterator_tag>::__copy_m<frag**>(frag** const*, frag** const*, frag***)
+ .text._ZNSt20__copy_move_backwardILb0ELb1ESt26random_access_iterator_tagE13__copy_move_bIPP4fragEEPT_PKS6_S9_S7_
+                0x0000000000004edf       0x76 src/main.o
+                0x0000000000004edf                frag*** std::__copy_move_backward<false, true, std::random_access_iterator_tag>::__copy_move_b<frag**>(frag** const*, frag** const*, frag***)
+ *fill*         0x0000000000004f55        0xb 
+ .text          0x0000000000004f60       0x75 /usr/lib/x86_64-linux-gnu/libc_nonshared.a(elf-init.oS)
+                0x0000000000004f60                __libc_csu_init
+                0x0000000000004fd0                __libc_csu_fini
+ .text          0x0000000000004fd5        0x0 /usr/lib/gcc/x86_64-linux-gnu/9/crtendS.o
+ .text          0x0000000000004fd5        0x0 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crtn.o
+ *(.gnu.warning)
+
+.fini           0x0000000000004fd8        0xd
+ *(SORT_NONE(.fini))
+ .fini          0x0000000000004fd8        0x8 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crti.o
+                0x0000000000004fd8                _fini
+ .fini          0x0000000000004fe0        0x5 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crtn.o
+                [!provide]                        PROVIDE (__etext = .)
+                [!provide]                        PROVIDE (_etext = .)
+                [!provide]                        PROVIDE (etext = .)
+                0x0000000000005000                . = ALIGN (CONSTANT (MAXPAGESIZE))
+                0x0000000000005000                . = SEGMENT_START ("rodata-segment", (ALIGN (CONSTANT (MAXPAGESIZE)) + (. & (CONSTANT (MAXPAGESIZE) - 0x1))))
+
+.rodata         0x0000000000005000       0xb8
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.cst4   0x0000000000005000        0x4 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+                0x0000000000005000                _IO_stdin_used
+ *fill*         0x0000000000005004        0x4 
+ .rodata        0x0000000000005008       0x60 src/state.o
+ .rodata        0x0000000000005068        0x1 src/frag.o
+ *fill*         0x0000000000005069        0x7 
+ .rodata        0x0000000000005070       0x48 src/main.o
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x00000000000050b8      0x5ec
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x00000000000050b8      0x5ec /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+                0x00000000000050b8                __GNU_EH_FRAME_HDR
+ *(.eh_frame_entry .eh_frame_entry.*)
+
+.eh_frame       0x00000000000056a8     0x1880
+ *(.eh_frame)
+ .eh_frame      0x00000000000056a8       0x30 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+                                         0x2c (size before relaxing)
+ *fill*         0x00000000000056d8        0x0 
+ .eh_frame      0x00000000000056d8       0x28 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+                                         0x40 (size before relaxing)
+ .eh_frame      0x0000000000005700       0x18 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+                                         0x30 (size before relaxing)
+ .eh_frame      0x0000000000005718       0x18 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+                                         0x30 (size before relaxing)
+ .eh_frame      0x0000000000005730      0xb98 src/state.o
+                                        0xbb0 (size before relaxing)
+ .eh_frame      0x00000000000062c8       0xc0 src/frag.o
+                                         0xd8 (size before relaxing)
+ .eh_frame      0x0000000000006388      0xb40 src/main.o
+                                        0xbf8 (size before relaxing)
+ .eh_frame      0x0000000000006ec8       0x5c /usr/lib/x86_64-linux-gnu/libc_nonshared.a(elf-init.oS)
+                                         0x78 (size before relaxing)
+ .eh_frame      0x0000000000006f24        0x4 /usr/lib/gcc/x86_64-linux-gnu/9/crtendS.o
+ *(.eh_frame.*)
+
+.gcc_except_table
+                0x0000000000006f28      0x184
+ *(.gcc_except_table .gcc_except_table.*)
+ .gcc_except_table
+                0x0000000000006f28       0x78 src/state.o
+ .gcc_except_table
+                0x0000000000006fa0      0x10c src/main.o
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges*)
+                0x0000000000008cd0                . = DATA_SEGMENT_ALIGN (CONSTANT (MAXPAGESIZE), CONSTANT (COMMONPAGESIZE))
+
+.eh_frame
+ *(.eh_frame)
+ *(.eh_frame.*)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges*)
+
+.tdata          0x0000000000008cd0        0x0
+                [!provide]                        PROVIDE (__tdata_start = .)
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array  0x0000000000008cd0        0x0
+                [!provide]                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                [!provide]                        PROVIDE (__preinit_array_end = .)
+
+.init_array     0x0000000000008cd0       0x20
+                0x0000000000008cd0                PROVIDE (__init_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.init_array.*) SORT_BY_INIT_PRIORITY(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x0000000000008cd0        0x8 /usr/lib/gcc/x86_64-linux-gnu/9/crtbeginS.o
+ .init_array    0x0000000000008cd8        0x8 src/state.o
+ .init_array    0x0000000000008ce0        0x8 src/frag.o
+ .init_array    0x0000000000008ce8        0x8 src/main.o
+                0x0000000000008cf0                PROVIDE (__init_array_end = .)
+
+.fini_array     0x0000000000008cf0        0x8
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.fini_array.*) SORT_BY_INIT_PRIORITY(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x0000000000008cf0        0x8 /usr/lib/gcc/x86_64-linux-gnu/9/crtbeginS.o
+                [!provide]                        PROVIDE (__fini_array_end = .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+
+.jcr
+ *(.jcr)
+
+.data.rel.ro    0x0000000000008cf8        0x0
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+ .data.rel.ro   0x0000000000008cf8        0x0 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+
+.dynamic        0x0000000000008cf8      0x210
+ *(.dynamic)
+ .dynamic       0x0000000000008cf8      0x210 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+                0x0000000000008cf8                _DYNAMIC
+
+.got            0x0000000000008f08       0xf8
+ *(.got.plt)
+ .got.plt       0x0000000000008f08       0xc0 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+                0x0000000000008f08                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+ *(.got)
+ .got           0x0000000000008fc8       0x38 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+ *(.igot)
+                0x0000000000009000                . = DATA_SEGMENT_RELRO_END (., 0x0)
+
+.data           0x0000000000009000       0x18
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000000000009000        0x4 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+                0x0000000000009000                data_start
+                0x0000000000009000                __data_start
+ .data          0x0000000000009004        0x0 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000009004        0x0 /usr/lib/gcc/x86_64-linux-gnu/9/crtbeginS.o
+ *fill*         0x0000000000009004        0x4 
+ .data.rel.local
+                0x0000000000009008        0x8 /usr/lib/gcc/x86_64-linux-gnu/9/crtbeginS.o
+                0x0000000000009008                __dso_handle
+ .data          0x0000000000009010        0x0 src/state.o
+ .data.rel.local.DW.ref.__gxx_personality_v0
+                0x0000000000009010        0x8 src/state.o
+                0x0000000000009010                DW.ref.__gxx_personality_v0
+ .data          0x0000000000009018        0x0 src/frag.o
+ .data          0x0000000000009018        0x0 src/main.o
+ .data          0x0000000000009018        0x0 /usr/lib/x86_64-linux-gnu/libc_nonshared.a(elf-init.oS)
+ .data          0x0000000000009018        0x0 /usr/lib/gcc/x86_64-linux-gnu/9/crtendS.o
+ .data          0x0000000000009018        0x0 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crtn.o
+
+.tm_clone_table
+                0x0000000000009018        0x0
+ .tm_clone_table
+                0x0000000000009018        0x0 /usr/lib/gcc/x86_64-linux-gnu/9/crtbeginS.o
+ .tm_clone_table
+                0x0000000000009018        0x0 /usr/lib/gcc/x86_64-linux-gnu/9/crtendS.o
+
+.data1
+ *(.data1)
+                0x0000000000009018                _edata = .
+                [!provide]                        PROVIDE (edata = .)
+                0x0000000000009018                . = .
+                0x0000000000009018                __bss_start = .
+
+.bss            0x0000000000009040      0x248
+ *(.dynbss)
+ *fill*         0x0000000000009040        0x0 
+ .dynbss        0x0000000000009040      0x238 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+                0x0000000000009040                std::cout@@GLIBCXX_3.4
+                0x0000000000009160                std::cin@@GLIBCXX_3.4
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000000000009278        0x0 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o
+ .bss           0x0000000000009278        0x0 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crti.o
+ .bss           0x0000000000009278        0x1 /usr/lib/gcc/x86_64-linux-gnu/9/crtbeginS.o
+ *fill*         0x0000000000009279        0x3 
+ .bss           0x000000000000927c        0x5 src/state.o
+                0x000000000000927c                state::nstate
+ .bss           0x0000000000009281        0x1 src/frag.o
+ .bss           0x0000000000009282        0x1 src/main.o
+ .bss           0x0000000000009283        0x0 /usr/lib/x86_64-linux-gnu/libc_nonshared.a(elf-init.oS)
+ .bss           0x0000000000009283        0x0 /usr/lib/gcc/x86_64-linux-gnu/9/crtendS.o
+ .bss           0x0000000000009283        0x0 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crtn.o
+ *(COMMON)
+                0x0000000000009288                . = ALIGN ((. != 0x0)?0x8:0x1)
+ *fill*         0x0000000000009283        0x5 
+
+.lbss
+ *(.dynlbss)
+ *(.lbss .lbss.* .gnu.linkonce.lb.*)
+ *(LARGE_COMMON)
+                0x0000000000009288                . = ALIGN (0x8)
+                0x0000000000009288                . = SEGMENT_START ("ldata-segment", .)
+
+.lrodata
+ *(.lrodata .lrodata.* .gnu.linkonce.lr.*)
+
+.ldata          0x000000000000b288        0x0
+ *(.ldata .ldata.* .gnu.linkonce.l.*)
+                0x000000000000b288                . = ALIGN ((. != 0x0)?0x8:0x1)
+                0x000000000000b288                . = ALIGN (0x8)
+                0x0000000000009288                _end = .
+                [!provide]                        PROVIDE (end = .)
+                0x000000000000b288                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x2b
+ *(.comment)
+ .comment       0x0000000000000000       0x2b /usr/lib/gcc/x86_64-linux-gnu/9/crtbeginS.o
+                                         0x2c (size before relaxing)
+ .comment       0x000000000000002b       0x2c src/state.o
+ .comment       0x000000000000002b       0x2c src/frag.o
+ .comment       0x000000000000002b       0x2c src/main.o
+ .comment       0x000000000000002b       0x2c /usr/lib/gcc/x86_64-linux-gnu/9/crtendS.o
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0xb40
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000      0x560 src/state.o
+ .debug_aranges
+                0x0000000000000560       0x30 src/frag.o
+ .debug_aranges
+                0x0000000000000590      0x5b0 src/main.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000    0x12ef2
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000     0x6a2b src/state.o
+ .debug_info    0x0000000000006a2b     0x2f5b src/frag.o
+ .debug_info    0x0000000000009986     0x956c src/main.o
+
+.debug_abbrev   0x0000000000000000     0x1ed4
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0xb5e src/state.o
+ .debug_abbrev  0x0000000000000b5e      0x796 src/frag.o
+ .debug_abbrev  0x00000000000012f4      0xbe0 src/main.o
+
+.debug_line     0x0000000000000000     0x2c89
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000     0x12a7 src/state.o
+ .debug_line    0x00000000000012a7      0x483 src/frag.o
+ .debug_line    0x000000000000172a     0x155f src/main.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000     0xce0a
+ *(.debug_str)
+ .debug_str     0x0000000000000000     0x56bb src/state.o
+                                       0x5b5b (size before relaxing)
+ .debug_str     0x00000000000056bb      0x124 src/frag.o
+                                       0x21b7 (size before relaxing)
+ .debug_str     0x00000000000057df     0x762b src/main.o
+                                       0xa1e2 (size before relaxing)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000      0xaf0
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000      0x550 src/state.o
+ .debug_ranges  0x0000000000000550      0x5a0 src/main.o
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_addr
+ *(.debug_addr)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(regex_nfa elf64-x86-64)

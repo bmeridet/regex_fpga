@@ -1,3 +1,4 @@
+#include <iostream>
 #include "../include/frag.h"
 
 frag::frag (state* _start, ptrlist* _out) {
@@ -5,32 +6,18 @@ frag::frag (state* _start, ptrlist* _out) {
     out = _out;
 }
 
-state* frag::get_start () {
-    return start;
-}
-
-frag::ptrlist* frag::get_out () {
-    return out;
-}
-
-void frag::set_start (state* s) {
-    start = s;
-}
-
-void frag::set_out (frag::ptrlist* p) {
-    out = p;
-}
-
-frag::ptrlist* frag::list1 (state* outp) {
-    frag::ptrlist* l = (frag::ptrlist*) outp;
+frag::ptrlist* frag::list1 (state** outp) {
+    frag::ptrlist* l;
+    l = (frag::ptrlist*) outp;
     l->nxt = nullptr;
     return l;
 }
 
 void frag::patch (ptrlist* l, state* s) {
-    while (l) {
+    frag::ptrlist* next;
+    for ( ; l; l = next) {
+        next = l->nxt;
         l->st = s;
-        l = l->nxt;
     }
 }
 
