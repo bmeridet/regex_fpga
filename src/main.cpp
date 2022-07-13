@@ -61,6 +61,7 @@ int main () {
                 break;
                 
             default:
+                state::add_char (re[i]);
                 s = new state (re[i], nullptr, nullptr);
                 stk_frags.push (new frag (s, frag::list1(&s->out1)));
         }
@@ -71,7 +72,9 @@ int main () {
     s = new state (state::match, nullptr, nullptr);
     frag::patch (f->out, s);
 
-    state::traverse (f->start);
+    //state::print_language ();
+    //state::traverse (f->start);
+    state::nfa_table (f->start);
 
     // next - construct a transition table and implement in HDL
 };
